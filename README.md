@@ -1,1 +1,1 @@
-Exploring developing health indies from small area datasets
+Exploring developing health indices from small area datasets
